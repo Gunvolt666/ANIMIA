@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PrediccionPython", "PrediccionPython\PrediccionPython.pyproj", "{FC8A4907-BE9A-4A60-9507-067E865933B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8A4907-BE9A-4A60-9507-067E865933B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8A4907-BE9A-4A60-9507-067E865933B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C29CF9-44E4-4BF9-AD30-588BC33066ED}
+	EndGlobalSection
+EndGlobal
